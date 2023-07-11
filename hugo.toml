@@ -1,4 +1,4 @@
-baseURL = 'http://lead.nithyanandoham.net/'
+baseURL = 'https://aaanandan.github.io/quicstart/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
